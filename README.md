@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Dhruv Rathod 👋
 
-<!--
-**Dhruv-Rathod-DA/Dhruv-Rathod-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA (Data Analytics) | BCA (Android Development)  
+📊 Data Analyst | SQL • Power BI • Python • Machine Learning  
+🌍 Open to relocation — actively looking for Data Analyst / AI-ML roles worldwide
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔧 Skills**
+- **Languages & Querying:** Python (pandas, NumPy, scikit-learn), SQL (MySQL, PostgreSQL)
+- **Visualization & BI:** Power BI (DAX, Power Query), Tableau, Excel
+- **Analytics & ML:** ETL pipelines, EDA, data cleaning, classification & regression models
+
+**📌 Featured Projects**
+- 🔗 *Coming soon — building fresh projects, check back!*
+
+**📫 Reach me:**
+- Email: dhruvrathod3447@gmail.com
+- LinkedIn: [linkedin.com/in/dhruv-rathod-718b77254](https://linkedin.com/in/dhruv-rathod-718b77254)
+- GitHub: [github.com/Dhruv-Rathod-DA](https://github.com/Dhruv-Rathod-DA)
