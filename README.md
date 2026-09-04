@@ -15,6 +15,6 @@
 - 🔗 *Coming soon — building fresh projects, check back!*
 
 **📫 Reach me:**
-- Email: dhruvrathod3447@gmail.com
+- Email: dhruvrathod1208@gmail.com
 - LinkedIn: [linkedin.com/in/dhruv-rathod-718b77254](https://linkedin.com/in/dhruv-rathod-718b77254)
 - GitHub: [github.com/Dhruv-Rathod-DA](https://github.com/Dhruv-Rathod-DA)
