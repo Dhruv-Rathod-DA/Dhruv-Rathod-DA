@@ -11,9 +11,6 @@
 - **Visualization & BI:** Power BI (DAX, Power Query), Tableau, Excel
 - **Analytics & ML:** ETL pipelines, EDA, data cleaning, classification & regression models
 
-**📌 Featured Projects**
-- 🔗 *Coming soon — building fresh projects, check back!*
-
 **📫 Reach me:**
 - Email: dhruvrathod1208@gmail.com
 - LinkedIn: [linkedin.com/in/dhruv-rathod-718b77254](https://linkedin.com/in/dhruv-rathod-718b77254)
